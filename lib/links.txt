@@ -1,0 +1,6 @@
+https://restcountries.com/v2/name/$countryName?fullText=true
+https://restcountries.com/#endpoihttps://restcountries.com/v3.1/india?fields=flags,timezones
+
+http://worldtimeapi.org
+
+https://help.livelyapps.com/pocketquery-for-confluence-cloud/rest-custom-countries-with-flags
